@@ -1,10 +1,10 @@
-##Welcome
+## Welcome
 
-##Aplication Spring Boor in Java
+## Aplication Spring Boor in Java
 
-:right_anger_bubble: Este repositório é um compilado que busca ilustrar uma aplicação Spring boot usando JDBC usando H2 para memória web.
+:right_anger_bubble: Este repositório é um compilado que busca ilustrar uma aplicação Spring boot aplicando JDBC em H2 para memória web.
 
-##Hello! I am Adriel Mori
+## Hello! I am Adriel Mori
 
 
 :computer: I'm Student Software Engineer at UFG and member of the LCC Project in machine learning research!
