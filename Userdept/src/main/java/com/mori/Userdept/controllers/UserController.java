@@ -50,4 +50,6 @@ public class UserController {
 		User result = repository.save(user); /* Manda o objeto ja convertido no relacinal e já uma nova referencia para o objeto saldo(id)*/
 		return result;
 	}
+	
+	/* End of file */
 }
