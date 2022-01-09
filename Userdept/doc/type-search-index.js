@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.mori.Userdept.entities","l":"Department"},{"p":"com.mori.Userdept.entities","l":"User"},{"p":"com.mori.Userdept","l":"UserdeptApplication"},{"p":"com.mori.Userdept.repositories","l":"UserRepository"}];updateSearchResults();
